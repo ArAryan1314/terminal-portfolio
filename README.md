@@ -1,3 +1,13 @@
+<!-- fork-notice:start -->
+
+> **About this fork:** maintained copy of [satnaing/terminal-portfolio](https://github.com/satnaing/terminal-portfolio), used for learning and integration. All credit for the original work goes to its authors. License: MIT (see `LICENSE`).
+>
+> **Live demo (upstream):** <https://terminal.satnaing.dev/>
+>
+> [![Standard CI](https://github.com/ArAryan1314/terminal-portfolio/actions/workflows/standard-ci.yml/badge.svg)](https://github.com/ArAryan1314/terminal-portfolio/actions/workflows/standard-ci.yml)
+
+<!-- fork-notice:end -->
+
 # Terminal Portfolio Website by Sat Naing
 
 ![Terminal Portfolio Website by Sat Naing](https://user-images.githubusercontent.com/53733092/194220661-e2ff8b4c-f64a-4b64-a836-c52fae6bbcda.png)
